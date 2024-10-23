@@ -1,1 +1,1 @@
-
+Developed an interactive typing speed game using HTML, CSS, and JavaScript. The game presents questions, and users must type answers quickly to score points. This project improved understanding of front-end technologies, enhanced coding skills, and demonstrated the ability to create engaging, user-interactive applications.
